@@ -1,5 +1,8 @@
 body{
-    background-color:#011202; 
+    background-image: url("https://alderton-jun.essex.sch.uk/essex/primary/alderton-jun/arenas/websitecontent/web/weather_snow_1234_pg_e1[1].jpg?width=640&height=480&scale=LIMIT_MAXSIZE");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -8,8 +11,8 @@ body{
     font-size: 3vw;
     margin-bottom: 5vh;
     font-family: 'Times New Roman', Times, serif; 
-    color: #eed934;   
-    text-shadow:  1px 1px 2px white, 0 0 25px rgb(0, 255, 242), 5px 5px 5px #4c3131;            
+    color: rgb(8, 233, 221);   
+    text-shadow: 1px 1px 2px white, 0 0 25px rgb(2, 218, 207), 5px 5px 5px #e90a0a;         
  
  }
  h1{
@@ -18,13 +21,13 @@ body{
  }
  input[type=text] {
     padding: 10px;
-    background-color: #792802;     
+    background-color: #1879a3;     
     border-radius: 30px;              
     text-align: center;
     font-size: 2vw;    
  }
  button.convert{
-    background: #792808;          
+    background: #10506b;          
     border-radius: 30px;            
     padding: 10px;                   
     border-style: double;    
