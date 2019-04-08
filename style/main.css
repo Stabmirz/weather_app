@@ -1,5 +1,5 @@
 body{
-    background-image: url("https://alderton-jun.essex.sch.uk/essex/primary/alderton-jun/arenas/websitecontent/web/weather_snow_1234_pg_e1[1].jpg?width=640&height=480&scale=LIMIT_MAXSIZE");
+    background-image: url("../img/back.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -34,6 +34,6 @@ button.convert{
     font-size: 1.5vw;    
 }
 .icon{
-    min-width: 8vw;
-    max-width: 8vw;
+    min-width: 7vw;
+    max-width: 7vw;
 }
